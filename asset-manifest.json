@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useofaxios/static/css/main.db798329.css",
+    "main.js": "/useofaxios/static/js/main.9759bdd0.js",
+    "static/js/787.5416a1dc.chunk.js": "/useofaxios/static/js/787.5416a1dc.chunk.js",
+    "index.html": "/useofaxios/index.html",
+    "main.db798329.css.map": "/useofaxios/static/css/main.db798329.css.map",
+    "main.9759bdd0.js.map": "/useofaxios/static/js/main.9759bdd0.js.map",
+    "787.5416a1dc.chunk.js.map": "/useofaxios/static/js/787.5416a1dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.9759bdd0.js"
+  ]
+}
